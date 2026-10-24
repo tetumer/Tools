@@ -8,7 +8,7 @@ URL = "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart"
 
 PARAMS = {
     "vs_currency": "usd",
-    "days": "400",
+    "days": "365",
     "interval": "daily"
 }
 
